@@ -1,0 +1,17 @@
+{
+    "data": {
+        "angr": {
+            "path": "./data/angr/angr.train",
+            "ratio": 0.6
+        },
+        "klee-new": {
+            "path": "./data/klee-new/klee-new.train",
+            "ratio": 0.3
+        },
+        "benchmark-small": {
+            "path": "./data/benchmark-small/benchmark-small.train",
+            "ratio": 0.6
+        }
+    }
+
+}

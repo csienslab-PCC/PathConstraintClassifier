@@ -1,0 +1,511 @@
+{
+    "result": [
+        {
+            "id": 0, 
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_1.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "time": 3.0040740966796875e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.00637507438659668, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.00036978721618652344, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.0038580894470214844, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 2.8848648071289062e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.02005910873413086, 
+                    "error": false
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.024824857711791992, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.3216090202331543, 
+                    "error": false
+                }
+            ]
+        }, 
+        {
+            "id": 1, 
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_10.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "time": 3.600120544433594e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.00515294075012207, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.0003829002380371094, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.003941059112548828, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 3.4809112548828125e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.0072438716888427734, 
+                    "error": false
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.021142005920410156, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.3214890956878662, 
+                    "error": false
+                }
+            ]
+        }, 
+        {
+            "id": 2, 
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_11.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "time": 3.695487976074219e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.004521846771240234, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.00036716461181640625, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.003247976303100586, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 3.3855438232421875e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.0073239803314208984, 
+                    "error": false
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.019800901412963867, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.3206791877746582, 
+                    "error": false
+                }
+            ]
+        }, 
+        {
+            "id": 3, 
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_12.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "time": 4.100799560546875e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.0049591064453125, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.0003840923309326172, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.003442049026489258, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 3.886222839355469e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.00848388671875, 
+                    "error": false
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.020614147186279297, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.32064294815063477, 
+                    "error": false
+                }
+            ]
+        }, 
+        {
+            "id": 4, 
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_13.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "time": 2.9802322387695312e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.006934165954589844, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.0003879070281982422, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.004037141799926758, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 2.9087066650390625e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.02302694320678711, 
+                    "error": false
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.024927854537963867, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.3214240074157715, 
+                    "error": false
+                }
+            ]
+        }, 
+        {
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_14.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.0994415283203125e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.0073719024658203125
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.00045108795166015625
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.004067897796630859
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.0040740966796875e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.024517059326171875
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.02491593360900879
+                }, 
+                {
+                    "answer": "", 
+                    "error": false, 
+                    "time": 0.32146286964416504
+                }
+            ], 
+            "id": 5
+        }, 
+        {
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_15.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.814697265625e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.005103111267089844
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.0003819465637207031
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.0037899017333984375
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.814697265625e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.0071868896484375
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.020524024963378906
+                }, 
+                {
+                    "answer": "", 
+                    "error": false, 
+                    "time": 0.3205101490020752
+                }
+            ], 
+            "id": 6
+        }, 
+        {
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_16.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.0994415283203125e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.005527973175048828
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.0003769397735595703
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.0040318965911865234
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.0040740966796875e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.009036064147949219
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.02075815200805664
+                }, 
+                {
+                    "answer": "", 
+                    "error": false, 
+                    "time": 0.32064080238342285
+                }
+            ], 
+            "id": 7
+        }, 
+        {
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_17.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.695487976074219e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.0044138431549072266
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.00031113624572753906
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.003192901611328125
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.600120544433594e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.007487058639526367
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.019837141036987305
+                }, 
+                {
+                    "answer": "", 
+                    "error": false, 
+                    "time": 0.3213357925415039
+                }
+            ], 
+            "id": 8
+        }, 
+        {
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_18.smt2", 
+            "result": [
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.719329833984375e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.00683903694152832
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.0003669261932373047
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 0.003951072692871094
+                }, 
+                {
+                    "answer": "", 
+                    "error": true, 
+                    "time": 3.600120544433594e-05
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.023713111877441406
+                }, 
+                {
+                    "answer": "sat", 
+                    "error": false, 
+                    "time": 0.024990081787109375
+                }, 
+                {
+                    "answer": "", 
+                    "error": false, 
+                    "time": 0.3206629753112793
+                }
+            ], 
+            "id": 9
+        }, 
+        {
+            "result": [
+                {
+                    "answer": "", 
+                    "time": 3.1948089599609375e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.004960060119628906, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.0003199577331542969, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.0038149356842041016, 
+                    "error": true
+                }, 
+                {
+                    "answer": "", 
+                    "time": 2.9087066650390625e-05, 
+                    "error": true
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.007782936096191406, 
+                    "error": false
+                }, 
+                {
+                    "answer": "sat", 
+                    "time": 0.02378702163696289, 
+                    "error": false
+                }, 
+                {
+                    "answer": "", 
+                    "time": 0.321613073348999, 
+                    "error": false
+                }
+            ], 
+            "id": 10, 
+            "file_path": "/home/PathConstraintClassifier/tutorial/data/small/ddcon_88_19.smt2"
+        }
+    ], 
+    "next": 11
+}
