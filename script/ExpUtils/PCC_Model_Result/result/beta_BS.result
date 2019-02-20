@@ -1,0 +1,236 @@
+{
+    "logic_selection": false, 
+    "backup_solver": true, 
+    "overhead": {
+        "predict": 3.7617690563201904, 
+        "logic_selection": 0, 
+        "avg_predict": 0.00011303392597115957, 
+        "avg_logic_selection": 0
+    }, 
+    "data": {
+        "all": {
+            "general": {
+                "total_time": 6283.860497236252, 
+                "activate_backup_by_timeout": 22, 
+                "timeout_count": 0, 
+                "activate_backup_count": 37, 
+                "solvable_count": 33194, 
+                "activate_backup_by_noanswer_time": 60.39536213874817, 
+                "activate_backup_by_error": 14, 
+                "activate_backup_by_error_time": 200.15826416015625, 
+                "error_count": 21, 
+                "activate_backup_time": 2460.5536262989044, 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 1800.2734818458557, 
+                "activate_backup_by_noanswer": 1, 
+                "total_count": 33215, 
+                "error_time": 1800.2734818458557, 
+                "nonsolvable_count": 21, 
+                "activate_backup_by_timeout_time": 2200.0, 
+                "solving_time": 2023.0333890914917, 
+                "possible_solve_result": [
+                    "unsat", 
+                    "sat"
+                ], 
+                "unknown_count": 0
+            }, 
+            "backup": {
+                "total_time": 1202.0850665569305, 
+                "timeout_count": 0, 
+                "total_count": 37, 
+                "error_time": 1100.226112127304, 
+                "solvable_count": 23, 
+                "nonsolvable_count": 14, 
+                "solving_time": 101.85895442962646, 
+                "error_count": 14, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 1100.226112127304, 
+                "unknown_count": 0
+            }, 
+            "preback": {
+                "total_time": 2460.5536262989044, 
+                "activate_backup_by_timeout": 22, 
+                "timeout_count": 0, 
+                "activate_backup_count": 37, 
+                "solvable_count": 0, 
+                "activate_backup_by_noanswer_time": 60.39536213874817, 
+                "activate_backup_by_error": 14, 
+                "activate_backup_by_error_time": 200.15826416015625, 
+                "error_count": 0, 
+                "activate_backup_time": 2460.5536262989044, 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "unknown_count": 0, 
+                "total_count": 0, 
+                "error_time": 0.0, 
+                "nonsolvable_count": 0, 
+                "activate_backup_by_timeout_time": 2200.0, 
+                "solving_time": 0.0, 
+                "possible_solve_result": [], 
+                "activate_backup_by_noanswer": 1
+            }, 
+            "no_answer": 65
+        }, 
+        "benchmark": {
+            "no_answer": 65, 
+            "backup": {
+                "total_time": 1201.7162096500397, 
+                "timeout_count": 0, 
+                "total_count": 36, 
+                "error_time": 1100.226112127304, 
+                "solvable_count": 22, 
+                "nonsolvable_count": 14, 
+                "solving_time": 101.4900975227356, 
+                "error_count": 14, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 1100.226112127304, 
+                "unknown_count": 0
+            }, 
+            "preback": {
+                "total_time": 2360.5536262989044, 
+                "activate_backup_by_timeout": 21, 
+                "timeout_count": 0, 
+                "activate_backup_count": 36, 
+                "solvable_count": 0, 
+                "activate_backup_by_noanswer_time": 60.39536213874817, 
+                "activate_backup_by_error": 14, 
+                "activate_backup_by_error_time": 200.15826416015625, 
+                "error_count": 0, 
+                "activate_backup_time": 2360.5536262989044, 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "unknown_count": 0, 
+                "total_count": 0, 
+                "error_time": 0.0, 
+                "nonsolvable_count": 0, 
+                "activate_backup_by_timeout_time": 2100.0, 
+                "solving_time": 0.0, 
+                "possible_solve_result": [], 
+                "activate_backup_by_noanswer": 1
+            }, 
+            "general": {
+                "total_time": 5707.919931411743, 
+                "activate_backup_by_timeout": 21, 
+                "timeout_count": 0, 
+                "activate_backup_count": 36, 
+                "solvable_count": 3170, 
+                "activate_backup_by_noanswer_time": 60.39536213874817, 
+                "activate_backup_by_error": 14, 
+                "activate_backup_by_error_time": 200.15826416015625, 
+                "error_count": 21, 
+                "activate_backup_time": 2360.5536262989044, 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 1800.2734818458557, 
+                "activate_backup_by_noanswer": 1, 
+                "total_count": 3191, 
+                "error_time": 1800.2734818458557, 
+                "nonsolvable_count": 21, 
+                "activate_backup_by_timeout_time": 2100.0, 
+                "solving_time": 1547.092823266983, 
+                "possible_solve_result": [
+                    "unsat", 
+                    "sat"
+                ], 
+                "unknown_count": 0
+            }
+        }, 
+        "angr": {
+            "no_answer": 0, 
+            "backup": {
+                "total_time": 0.36885690689086914, 
+                "timeout_count": 0, 
+                "total_count": 1, 
+                "error_time": 0.0, 
+                "solvable_count": 1, 
+                "nonsolvable_count": 0, 
+                "solving_time": 0.36885690689086914, 
+                "error_count": 0, 
+                "possible_solve_result": [
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "unknown_count": 0
+            }, 
+            "preback": {
+                "total_time": 100.0, 
+                "nonsolvable_count": 0, 
+                "activate_backup_by_timeout": 1, 
+                "timeout_count": 0, 
+                "activate_backup_count": 1, 
+                "activate_backup_by_error_time": 0.0, 
+                "total_count": 0, 
+                "error_time": 0.0, 
+                "solvable_count": 0, 
+                "activate_backup_by_noanswer_time": 0.0, 
+                "activate_backup_by_timeout_time": 100.0, 
+                "solving_time": 0.0, 
+                "error_count": 0, 
+                "activate_backup_by_error": 0, 
+                "unknown_count": 0, 
+                "activate_backup_time": 100.0, 
+                "possible_solve_result": [], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "activate_backup_by_noanswer": 0
+            }, 
+            "general": {
+                "total_time": 425.3246886730194, 
+                "activate_backup_by_timeout": 1, 
+                "timeout_count": 0, 
+                "activate_backup_count": 1, 
+                "solvable_count": 10000, 
+                "activate_backup_by_noanswer_time": 0.0, 
+                "activate_backup_by_error": 0, 
+                "activate_backup_by_error_time": 0.0, 
+                "error_count": 0, 
+                "activate_backup_time": 100.0, 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "activate_backup_by_noanswer": 0, 
+                "total_count": 10000, 
+                "error_time": 0.0, 
+                "nonsolvable_count": 0, 
+                "activate_backup_by_timeout_time": 100.0, 
+                "solving_time": 325.3246886730194, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "unknown_count": 0
+            }
+        }, 
+        "klee": {
+            "no_answer": 0, 
+            "backup": {}, 
+            "preback": {}, 
+            "general": {
+                "total_time": 150.61587715148926, 
+                "timeout_count": 0, 
+                "total_count": 20024, 
+                "error_time": 0.0, 
+                "solvable_count": 20024, 
+                "nonsolvable_count": 0, 
+                "solving_time": 150.61587715148926, 
+                "error_count": 0, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "unknown_count": 0
+            }
+        }
+    }, 
+    "model_name": "DNN-beta", 
+    "activate_bks_time": 100
+}

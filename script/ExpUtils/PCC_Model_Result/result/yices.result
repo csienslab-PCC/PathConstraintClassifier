@@ -1,0 +1,102 @@
+{
+    "logic_selection": false, 
+    "backup_solver": false, 
+    "overhead": {
+        "predict": 0.0, 
+        "logic_selection": 0, 
+        "avg_predict": 0.0, 
+        "avg_logic_selection": 0
+    }, 
+    "data": {
+        "all": {
+            "general": {
+                "total_time": 8409.118495941162, 
+                "timeout_count": 0, 
+                "total_count": 33215, 
+                "error_time": 6807.546481132507, 
+                "solvable_count": 31865, 
+                "nonsolvable_count": 1350, 
+                "solving_time": 1601.5720148086548, 
+                "error_count": 1350, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 6807.546481132507, 
+                "unknown_count": 0
+            }, 
+            "backup": {}, 
+            "preback": {}, 
+            "no_answer": 65
+        }, 
+        "benchmark": {
+            "no_answer": 65, 
+            "backup": {}, 
+            "preback": {}, 
+            "general": {
+                "total_time": 8048.5736565589905, 
+                "timeout_count": 0, 
+                "total_count": 3191, 
+                "error_time": 6807.546481132507, 
+                "solvable_count": 1841, 
+                "nonsolvable_count": 1350, 
+                "solving_time": 1241.0271754264832, 
+                "error_count": 1350, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 6807.546481132507, 
+                "unknown_count": 0
+            }
+        }, 
+        "angr": {
+            "no_answer": 0, 
+            "backup": {}, 
+            "preback": {}, 
+            "general": {
+                "total_time": 174.36699771881104, 
+                "timeout_count": 0, 
+                "total_count": 10000, 
+                "error_time": 0.0, 
+                "solvable_count": 10000, 
+                "nonsolvable_count": 0, 
+                "solving_time": 174.36699771881104, 
+                "error_count": 0, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "unknown_count": 0
+            }
+        }, 
+        "klee": {
+            "no_answer": 0, 
+            "backup": {}, 
+            "preback": {}, 
+            "general": {
+                "total_time": 186.1778416633606, 
+                "timeout_count": 0, 
+                "total_count": 20024, 
+                "error_time": 0.0, 
+                "solvable_count": 20024, 
+                "nonsolvable_count": 0, 
+                "solving_time": 186.1778416633606, 
+                "error_count": 0, 
+                "possible_solve_result": [
+                    "sat", 
+                    "unsat"
+                ], 
+                "timeout_time": 0.0, 
+                "nonsolving_time": 0.0, 
+                "unknown_count": 0
+            }
+        }
+    }, 
+    "model_name": "yices", 
+    "activate_bks_time": 0
+}
