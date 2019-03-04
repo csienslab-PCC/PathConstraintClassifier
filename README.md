@@ -1,5 +1,6 @@
 # Fuzbolic Project: Path Constraint Classifier 
 Author: wombatwen (r05922009@ntu.edu.tw)
+Email: csienslab.pcc@gmail.com
 
 
 ## Introduction
